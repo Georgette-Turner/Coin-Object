@@ -37,12 +37,15 @@ console.log(coin.toString())
 
 
 function display20Flips(coinFlip) {
-    // 
+    // forloop
     
   
 }
 
 function display20Images (){
+
+
+    // for or while loop
     // using a loop to flip the coin 20 times…but this time instead of displaying the result as a string, display the result of each flip as an HTML IMG element on the page (make use of your toHTML() method).
 
 }
